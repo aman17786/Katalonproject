@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_For myself</name>
+   <tag></tag>
+   <elementGuidId>ecb4fe15-c1ba-410a-8984-be9a92fd6922</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='view_container']/div/div/div[2]/div/div[2]/div/div[2]/div/div/div[2]/div/ul/li/span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.VfPpkd-StrnGf-rymPhb-b9t22c</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>521e5cd6-4ad6-4bfd-b47a-a92052fa7e4b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>jsname</name>
+      <type>Main</type>
+      <value>K4r5Ff</value>
+      <webElementGuid>a85da699-d18d-4c4e-be34-8f3b652e9916</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>VfPpkd-StrnGf-rymPhb-b9t22c</value>
+      <webElementGuid>f76b8381-ad10-4795-8190-02181c744d2f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>For myself</value>
+      <webElementGuid>8cc6e425-68ef-49a2-bef4-80dbe854e301</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;view_container&quot;)/div[@class=&quot;zWl5kd&quot;]/div[@class=&quot;DRS7Fe bxPAYd k6Zj8d&quot;]/div[@class=&quot;pwWryf bxPAYd&quot;]/div[@class=&quot;Wxwduf Us7fWe JhUD8d&quot;]/div[@class=&quot;zQJV3&quot;]/div[@class=&quot;dG5hZc&quot;]/div[@class=&quot;daaWTb&quot;]/div[@class=&quot;OIPlvf&quot;]/div[@class=&quot;VfPpkd-xl07Ob-XxIAqe-OWXEXe-oYxtQd&quot;]/div[2]/div[@class=&quot;VfPpkd-xl07Ob-XxIAqe VfPpkd-xl07Ob q6oraf P77izf ILYVD VfPpkd-xl07Ob-XxIAqe-OWXEXe-FNFY6c VfPpkd-xl07Ob-XxIAqe-OWXEXe-oT9UPb-xTMeO&quot;]/ul[@class=&quot;VfPpkd-StrnGf-rymPhb DMZ54e&quot;]/li[@class=&quot;G3hhxb VfPpkd-StrnGf-rymPhb-ibnC6b&quot;]/span[@class=&quot;VfPpkd-StrnGf-rymPhb-b9t22c&quot;]</value>
+      <webElementGuid>79ab7cdf-cb4a-4e30-b2c7-032d1776a4ee</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='view_container']/div/div/div[2]/div/div[2]/div/div[2]/div/div/div[2]/div/ul/li/span[2]</value>
+      <webElementGuid>6625c67f-5b64-4b00-90ab-3967c53e3452</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Create account'])[1]/following::span[3]</value>
+      <webElementGuid>fccc7f2c-46db-4d86-8cd1-10c369b71c4d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Next'])[1]/following::span[4]</value>
+      <webElementGuid>dc1fb1c9-71e5-4d5a-b00a-d2f4d278835e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='For my child'])[1]/preceding::span[2]</value>
+      <webElementGuid>dc38799c-4e31-46d1-9787-3fff0aa3c533</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='To manage my business'])[1]/preceding::span[4]</value>
+      <webElementGuid>797fe8d9-84d9-4145-b02c-add7310e9b2a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='For myself']/parent::*</value>
+      <webElementGuid>e3b7b668-71eb-40f7-999e-10ba2366c4b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[2]</value>
+      <webElementGuid>c5a3b3ec-59e7-479c-a578-9dd324fc721b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'For myself' or . = 'For myself')]</value>
+      <webElementGuid>7f281797-3f99-421c-8c9c-58dfe1e3bff5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
