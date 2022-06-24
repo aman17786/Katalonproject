@@ -51,7 +51,7 @@ WebUI.click(findTestObject('Object Repository/gmail create account/Page_Create y
 
 WebUI.setText(findTestObject('Object Repository/gmail create account/Page_Create your Google Account/input_G-_code'), '418124')
 
-WebUI.click(findTestObject('Object Repository/gmail create account/Page_Create your Google Account/span_Verify'))
+not_run: WebUI.click(findTestObject('Object Repository/gmail create account/Page_Create your Google Account/span_Verify'))
 
 WebUI.selectOptionByValue(findTestObject('Object Repository/gmail create account/Page_Create your Google Account/select_JanuaryFebruaryMarchAprilMayJuneJuly_566629'), 
     '8', true)
