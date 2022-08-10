@@ -19,3 +19,5 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.clearText(findTestObject(null))
 
+WebUI.delay(0)
+
