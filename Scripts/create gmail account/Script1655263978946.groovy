@@ -71,3 +71,5 @@ WebUI.click(findTestObject('Object Repository/gmail create account/Page_Create y
 
 WebUI.click(findTestObject('Object Repository/gmail create account/Page_Create your Google Account/div_Send me occasional reminders about thes_0c9643'))
 
+WebUI.delay(0)
+
